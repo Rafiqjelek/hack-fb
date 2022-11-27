@@ -1,0 +1,2 @@
+# hack-fb
+apt update
